@@ -10,7 +10,7 @@ class Solution {
         return 0;
     }
     else{
-        return (int)reverse_integer;
+        return (int) reverse_integer;
     }
     }
 }
