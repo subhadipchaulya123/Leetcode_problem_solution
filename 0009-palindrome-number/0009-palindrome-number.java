@@ -9,7 +9,8 @@ class Solution {
      } 
      if(original==sum){
         return true;
-     } 
-     return false;
+
     }
+    return false;
+}
 }
