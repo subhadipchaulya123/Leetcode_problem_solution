@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
