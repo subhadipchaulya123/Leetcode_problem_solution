@@ -7,11 +7,13 @@
 | [0007-reverse-integer](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -21,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0645-set-mismatch) |
@@ -43,15 +46,18 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
