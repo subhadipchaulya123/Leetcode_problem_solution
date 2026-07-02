@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
 | [2652-sum-multiples](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2652-sum-multiples) |
 ## Array
 |  |
@@ -63,4 +64,12 @@
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0645-set-mismatch) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
