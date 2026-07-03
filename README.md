@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
@@ -71,5 +72,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
