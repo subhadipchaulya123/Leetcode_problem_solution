@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
 | [2652-sum-multiples](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2652-sum-multiples) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
