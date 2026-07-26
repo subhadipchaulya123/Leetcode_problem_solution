@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0342-power-of-four) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0041-first-missing-positive) |
+| [0204-count-primes](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -79,10 +81,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
 ## Simulation
