@@ -10,6 +10,7 @@
 | [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0342-power-of-four) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
 | [2652-sum-multiples](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2652-sum-multiples) |
