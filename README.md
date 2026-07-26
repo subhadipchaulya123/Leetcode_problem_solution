@@ -10,6 +10,7 @@
 | [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
@@ -24,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0645-set-mismatch) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -69,6 +71,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0645-set-mismatch) |
 | [3536-maximum-product-of-two-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
