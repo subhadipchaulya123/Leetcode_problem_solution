@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0342-power-of-four) |
@@ -57,6 +58,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
