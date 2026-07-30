@@ -17,6 +17,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
+| [2169-count-operations-to-obtain-zero](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2652-sum-multiples](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -95,4 +96,5 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0258-add-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
