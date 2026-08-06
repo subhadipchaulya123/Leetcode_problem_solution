@@ -19,6 +19,7 @@
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2652-sum-multiples](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/2652-sum-multiples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -86,6 +87,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/subhadipchaulya123/Leetcode_problem_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
